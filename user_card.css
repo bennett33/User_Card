@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+#color {
+    background-color: #11AABB;
+    height: 150px;
+}
+
+#profile {
+    width: 800px;
+    margin: 40px auto;
+    border: solid 1px #666666;
+}
+
+#location {
+    font-weight: bold;
+    font-size: 26px;
+}
+
+#location img {
+    height: 20px;
+    padding-right: 10px;
+}
+
+#bio {
+    margin: 10px 0;
+}
+
+#portrait {
+    border: solid 1px #666666;
+    border-radius: 50%;
+    padding: 4px;
+    position: absolute;
+    height: 150px;
+    top: -80px;
+    background-color: #ffffff;
+    border: solid 1px #666666;
+}
+
+#content {
+    padding: 30px;
+    position: relative;
+}
+
+#name {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+#edit {
+    font-size: 26px;
+}
+
+#edit img {
+    height: 20px;
+    padding-right: 10px;
+}
